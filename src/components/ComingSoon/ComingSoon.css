@@ -1,0 +1,23 @@
+#comingSoon {
+  height: 70vh;
+  display: flex;
+  justify-content: center;
+  margin-top: 20vh;
+}
+
+#content {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  width: 75vw;
+}
+
+#content > h1 {
+  font-size: 5vh;
+  text-transform: uppercase;
+}
+
+#content > p {
+  font-size: 2vh;
+  color: rgba(255, 255, 255, 0.9)
+}

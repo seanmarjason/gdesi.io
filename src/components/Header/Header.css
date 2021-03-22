@@ -1,0 +1,25 @@
+#header {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#logo {
+  width: 50vw;
+  max-width: 200px;
+}
+
+#logo img {
+  width: 100%;
+  margin: 20px;
+}
+
+#socials {
+  margin: 10px;
+}
+
+.socialMediaIcon {
+  width: 25px;
+  padding: 10px;
+}

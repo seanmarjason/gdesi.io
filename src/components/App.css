@@ -1,0 +1,14 @@
+.App {
+  background-image: url(./Gdesi_Home_Background.jpg);
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+}
+
+#container {
+  background: rgba(245, 128, 33, 0.2);
+  backdrop-filter: blur(2.5px);
+}
