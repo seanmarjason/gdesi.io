@@ -1,7 +1,7 @@
 import './Header.css';
 import gdesiLogo from '../../assets/gdesiLogo_white.png'
-import facebookLogo from '../../assets/socials/iconmonstr-facebook-6-240.png'
-import instagramLogo from '../../assets/socials/iconmonstr-instagram-11-240.png'
+// import facebookLogo from '../../assets/socials/iconmonstr-facebook-6-240.png'
+// import instagramLogo from '../../assets/socials/iconmonstr-instagram-11-240.png'
 
 export function Header() {
   return (
